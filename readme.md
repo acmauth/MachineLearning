@@ -12,6 +12,7 @@
       - [19/11/2020](#19112020)
       - [26/11/2020](#26112020)
       - [3/12/2020](#3122020)
+      - [10/12/2020](#10122020)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -97,3 +98,29 @@ Established in 2018, our team aims to bring together machine learning enthusiast
 
 :star_struck:  EXTRAS  :star_struck: 
 - We've updated our GitHub
+
+#### 10/12/2020 ####
+
+:spiral_notepad: Notebook: [Evaluation Process & Measure](https://colab.research.google.com/drive/1yl33zmiYs9R6Hspqx2q3l7qtuMJSuLFA?usp=sharing)
+
+:infinity: [Confusion Matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
+
+:wrench: Scikit-learn: [Metrics and scoring: quantifying the quality of predictions](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+:book:  Article: [Intuitions on L1 and L2 Regularisation](https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261)
+
+:trophy: Competition - Who can achieve the best results using just linear models? Try to train the best linear model for identifying images with digits from 0-9. See more at [Colab Notebook](https://colab.research.google.com/drive/19WrwfiEfTTGi99Z3lZIf0O4ZR5lIDMKt?usp=sharing)
+More info on the [MNIST DATASET](http://yann.lecun.com/exdb/mnist/) 
+
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" width="20"/>](image.png) Submit your code via discord!
+
+:crystal_ball: Επόμενη συνάντηση :crystal_ball: 
+
+:lizard: Beginners :lizard: 
+- Μαζεύουμε απορίες σχετικά με τα Γραμμικά Μοντέλα, βιβλιοθήκες και εργαλεία
+- Δημιουργούμε το δικό μας notebook και το παρουσιάζουμε
+
+:dragon: Advanced :dragon:
+- Αναζήτηση για Data Preprocessing
+- Αναζήτηση για Δέντρα Απόφασης (Classification & Regression Trees) :christmas_tree:
+

@@ -13,6 +13,7 @@
       - [26/11/2020](#26112020)
       - [3/12/2020](#3122020)
       - [10/12/2020](#10122020)
+      - [17/12/2020](#17122020)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -124,3 +125,23 @@ More info on the [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
 - Αναζήτηση για Data Preprocessing
 - Αναζήτηση για Δέντρα Απόφασης (Classification & Regression Trees) :christmas_tree:
 
+#### 17/12/2020 ####
+
+:spiral_notepad: Notebook: [I hacked you](notebooks/I%20hacked%20you.ipynb) - A simple notebook with preprocessing using a croudsourcing dataset predicting whether a student will continue to attend the ML team meetings
+
+:trophy: MNIST Competition: [Winning Notebook](https://colab.research.google.com/drive/1Cv19Gg_zHD2WspeOcKzJMiSc6Xk5pg_U?usp=sharing) by [@Din0s](https://github.com/din0s/)
+
+:trophy: Competition (Continues) - Who can achieve the best results using just linear models? Try to train the best linear model for identifying images with digits from 0-9. See more at [Colab Notebook](https://colab.research.google.com/drive/19WrwfiEfTTGi99Z3lZIf0O4ZR5lIDMKt?usp=sharing)
+More info on the [MNIST DATASET](http://yann.lecun.com/exdb/mnist/) 
+
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" width="20"/>](image.png) Submit your code via discord!
+
+:crystal_ball: **Επόμενη συνάντηση** :crystal_ball: 
+
+:lizard: Beginners :lizard: 
+- Μαζεύουμε απορίες σχετικά με αυτά που παρουσιάστηκαν την προηγούμενη συνάντηση
+- Δημιουργούμε το δικό μας notebook και το παρουσιάζουμε
+
+:dragon: Advanced :dragon:
+- Αναζήτηση για Data Preprocessing
+- Αναζήτηση για Δέντρα Απόφασης (Classification & Regression Trees) :christmas_tree:

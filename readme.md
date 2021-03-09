@@ -14,6 +14,7 @@
       - [3/12/2020](#3122020)
       - [10/12/2020](#10122020)
       - [17/12/2020](#17122020)
+      - [27/02/2021](#27022021)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -145,3 +146,19 @@ More info on the [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
 :dragon: Advanced :dragon:
 - Αναζήτηση για Data Preprocessing
 - Αναζήτηση για Δέντρα Απόφασης (Classification & Regression Trees) :christmas_tree:
+
+#### 27/02/2021 ####
+
+:infinity: [Simple Introduction to Decision Trees](https://github.com/Avik-Jain/100-Days-Of-ML-Code#decision-trees--day-23)
+
+:spiral_notepad: [Decision Trees Notebook](notebooks/decision_trees_by_ageron.ipynb) - [Original Source](https://github.com/ageron/handson-ml2/blob/master/06_decision_trees.ipynb) 
+
+:fox_face: Συζήτηση: [CART](https://medium.com/analytics-vidhya/decision-tree-the-cart-algorithm-28c481d28813)
+
+:crystal_ball: **Επόμενη συνάντηση** :crystal_ball: 
+
+:lizard: Beginners :lizard: & :dragon: Advanced :dragon:
+- Μαζεύουμε απορίες σχετικά με αυτά που παρουσιάστηκαν την προηγούμενη συνάντηση
+- Δημιουργούμε το δικό μας notebook και το παρουσιάζουμε
+- Αναζήτηση για **ensembles models** 
+- Αναζήτηση για αναπαραστάσεις κειμένου, video, ήχου κ.α. και αντίστοιχα tasks. 

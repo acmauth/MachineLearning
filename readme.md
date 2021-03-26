@@ -15,6 +15,7 @@
       - [10/12/2020](#10122020)
       - [17/12/2020](#17122020)
       - [27/02/2021](#27022021)
+      - [13/03/2021](#13032021)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -160,5 +161,16 @@ More info on the [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
 :lizard: Beginners :lizard: & :dragon: Advanced :dragon:
 - Μαζεύουμε απορίες σχετικά με αυτά που παρουσιάστηκαν την προηγούμενη συνάντηση
 - Δημιουργούμε το δικό μας notebook και το παρουσιάζουμε
+- Αναζήτηση για **ensembles models** 
+- Αναζήτηση για αναπαραστάσεις κειμένου, video, ήχου κ.α. και αντίστοιχα tasks. 
+
+#### 13/03/2021 ####
+:man_teacher: Παρουσίαση: [PCA Whitening](http://ufldl.stanford.edu/tutorial/unsupervised/PCAWhitening/) by [@Din0s](https://github.com/din0s/)
+
+:paintbrush: Εισαγωγή στα Ensembles, μέθοδοι Voting
+
+:crystal_ball: **Επόμενη συνάντηση** :crystal_ball: 
+
+- Μαζεύουμε απορίες σχετικά με αυτά που παρουσιάστηκαν την προηγούμενη συνάντηση
 - Αναζήτηση για **ensembles models** 
 - Αναζήτηση για αναπαραστάσεις κειμένου, video, ήχου κ.α. και αντίστοιχα tasks. 

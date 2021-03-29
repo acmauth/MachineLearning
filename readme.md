@@ -16,6 +16,7 @@
       - [17/12/2020](#17122020)
       - [27/02/2021](#27022021)
       - [13/03/2021](#13032021)
+      - [27/03/2021](#27032021)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -174,3 +175,18 @@ More info on the [MNIST DATASET](http://yann.lecun.com/exdb/mnist/)
 - Μαζεύουμε απορίες σχετικά με αυτά που παρουσιάστηκαν την προηγούμενη συνάντηση
 - Αναζήτηση για **ensembles models** 
 - Αναζήτηση για αναπαραστάσεις κειμένου, video, ήχου κ.α. και αντίστοιχα tasks. 
+
+#### 27/03/2021 ####
+
+:man_teacher: Ensembles: Stacking, Bagging, Boosting
+
+:spiral_notepad: Σημειώσεις Μαθήματος [Μηχανική Μάθηση](https://elearning.auth.gr/course/view.php?id=11553) 
+
+
+:star_struck:  Extra: [Sound Classification using Deep Learning](https://mikesmales.medium.com/sound-classification-using-deep-learning-8bc2aa1990b7) & [Notebook](https://github.com/mikesmales/Udacity-ML-Capstone)
+
+:crystal_ball: **Επόμενη συνάντηση** :crystal_ball: 
+
+- Παραδείγματα σε **Ensembles** 
+- Histogram Based Gradient Boosting
+- Support Vector Machine (SVMs)
